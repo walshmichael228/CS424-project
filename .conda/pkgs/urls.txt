@@ -1,0 +1,2 @@
+https://repo.anaconda.com/pkgs/main/linux-64/certifi-2018.10.15-py36_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/linux-64/django-2.1.2-py36_0.tar.bz2

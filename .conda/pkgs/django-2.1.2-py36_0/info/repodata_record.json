@@ -1,0 +1,23 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "pytz"
+  ],
+  "features": "",
+  "fn": "django-2.1.2-py36_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "md5": "5d04b0310fdc81cf68b2e332c52e0d58",
+  "name": "django",
+  "platform": "linux",
+  "size": 5064632,
+  "subdir": "linux-64",
+  "timestamp": 1539474674331,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/django-2.1.2-py36_0.tar.bz2",
+  "version": "2.1.2"
+}

@@ -1,0 +1,10 @@
+{
+  "Editor": {
+    "file_extension_modes": {
+      ".txt": "Markdown"
+    },
+    "codemirror_options": {
+      "lineNumbers": false
+    }
+  }
+}
