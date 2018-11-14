@@ -1,0 +1,4 @@
+It works fine but what happens if you have more than 4 landlords. You need to work out how to loop through all the landlords in the database in the templare.
+
+grade: 85%
+

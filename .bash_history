@@ -125,3 +125,26 @@ python manage.py makemigrations
 python manage.py runserver 0.0.0.0:1154
 python manage.py makemigrations
 python manage.py runserver 0.0.0.0:1154
+git config --global user.name "Michael Walsh"
+git config --global user.email "walshmichael228@gmail.com"
+git push
+git push --set-upstream origin master
+git init
+git remote add origin https://github.com/walshmichael228/CS424-project.git
+git push -u origin master
+cd
+git push -u origin master
+git push 
+git push --set-upstream origin master
+git add .
+cd
+cd EstateAgent
+git add .
+git commit -m "Master"
+git push -u origin master
+python manage.py runserver 0.0.0.0:1154
+git add .
+git commit -u master "Master2"
+mkdir homework
+mv Assignment2-feedback homework/
+exit

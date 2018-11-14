@@ -333,3 +333,55 @@
 [p15496668 | INFO] EOF on FD 14; stopping reading
 [p15496668 | INFO] Terminal 1 closed
 [p15496668 | INFO] New terminal with automatic name: 1
+[p15496668 | CRITICAL] received signal 15, stopping
+[p15496668 | INFO] Shutting down 0 kernels
+[p15496668 | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[p15496668 | INFO] Loading the validate_assignment nbgrader serverextension
+[p15496668 | INFO] Serving notebooks from local directory: /home/p15496668
+[p15496668 | INFO] The Jupyter Notebook is running at:
+[p15496668 | INFO] http://127.0.0.1:43383/user/p15496668/
+[p15496668 | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[p15496668 | INFO] 302 GET /user/p15496668 (127.0.0.1) 1.40ms
+[p15496668 | INFO] 302 GET /user/p15496668 (::ffff:192.168.7.120) 0.98ms
+[p15496668 | INFO] Creating new notebook in /EstateAgent/Landlord
+[p15496668 | INFO] Kernel started: c4ffdb0c-5030-454c-8b62-77a8c005bcd9
+[p15496668 | INFO] Adapting to protocol v5.1 for kernel c4ffdb0c-5030-454c-8b62-77a8c005bcd9
+[p15496668 | INFO] Starting buffering for c4ffdb0c-5030-454c-8b62-77a8c005bcd9:8fb2e97b03494a188af25724dcdf9a75
+[p15496668 | INFO] Creating new file in /EstateAgent/Landlord
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Creating new file in /EstateAgent/Landlord/templates/landlord
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/urls.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/models.py
+[p15496668 | INFO] New terminal with automatic name: 1
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/templates/landlord/member_update.html
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/templates/landlord/member_update.html
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/templates/landlord/member_update.html
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/models.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/models.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/models.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/templates/landlord/member_update.html
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/forms.py
+[p15496668 | INFO] Saving file at /EstateAgent/Landlord/views.py
+[p15496668 | INFO] New terminal with automatic name: 2
+[p15496668 | INFO] New terminal with automatic name: 3

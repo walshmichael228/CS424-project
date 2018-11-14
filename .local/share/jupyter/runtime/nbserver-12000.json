@@ -3,9 +3,9 @@
   "hostname": "127.0.0.1",
   "notebook_dir": "/home/p15496668",
   "password": false,
-  "pid": 1756,
-  "port": 49089,
+  "pid": 12000,
+  "port": 43383,
   "secure": false,
   "token": "",
-  "url": "http://127.0.0.1:49089/user/p15496668/"
+  "url": "http://127.0.0.1:43383/user/p15496668/"
 }

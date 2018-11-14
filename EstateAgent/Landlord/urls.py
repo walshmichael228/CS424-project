@@ -6,6 +6,7 @@ from django.urls import include, path
 
 urlpatterns = [
     path('id_num/<int:num_id>', views.member, name = "landlord_profile"),
-    path('list/', views.list1, name = 'list')
+    path('list/', views.list1, name = 'list'),
+    path('form/', views.member_update, name = 'form')
    
 ]

@@ -2,6 +2,11 @@ from django.shortcuts import render
 from Landlord.models import Member
 from django.http import HttpResponse
 from django.views import generic
+from Landlord.forms import MemberForm
+from django.contrib.auth.decorators import login_required
+
+
+
 
 
 
@@ -28,5 +33,17 @@ def list1(request):
     
 
 
-    
+@login_required
+def member_update(request):
+    if request.method == "POST":
+        form = MemberForm(request.POST)
+        if form.is_valid():
+            
+            return HttpResponse('Thanks')
+        else:
+            return HttpResponse('Invalid data')
+    form = MemberForm()
+    return render(request,'landlord/member_update.html',{
+        'form':form
+        })   
     
